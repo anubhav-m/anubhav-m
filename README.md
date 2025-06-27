@@ -28,6 +28,6 @@
 ### Github stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anubhav-m)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anubhav-m)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anubhav-m&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-m&layout=compact)
 
