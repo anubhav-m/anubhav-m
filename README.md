@@ -27,15 +27,6 @@
 
 ### Github stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anubhav-m&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-m&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=anubhav-m&theme=radical&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhav-m&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anubhav-m&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-m&layout=compact&theme=radical)
