@@ -14,7 +14,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ### Languages & Query Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,13 +23,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-
 ### Github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhav-m&show_icons=true&theme=radical&hide_border=true)
-<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anubhav-m&theme=radical&hide_border=true)
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-m&layout=compact&theme=radical&hide_border=true)
